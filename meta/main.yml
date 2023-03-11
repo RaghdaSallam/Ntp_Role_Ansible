@@ -1,0 +1,13 @@
+---
+dependencies: []
+
+galaxy_info:
+  role_name: ntp_config
+  author:Raghda Sallam
+  description: ntpd for Linux (Centos).
+  galaxy_tags:
+    - ntp
+    - time
+    - timezone
+    - date
+    - synchronization
